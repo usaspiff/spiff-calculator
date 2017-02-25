@@ -1,0 +1,122 @@
+html, body {
+    background-color: gray;
+}
+
+#display {
+    background-color: orange;
+    width: 340px;
+    height: 75px;
+    border: solid;
+    border-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    padding-top: 8px;
+    text-align: right;
+}
+
+#calculation {
+    font-family: nunito, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 30px;
+}
+
+#calculation2 {
+    font-family: nunito, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 25px;
+}
+
+#calculator {
+    background-color: black;
+    width: 340px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btn-default {
+    background-color: white;
+    font-weight: bold;
+    color: orange;
+    width: 70px;
+    font-family: nunito, sans-serif;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+.btn-default:active {
+    background-color: gray;
+}
+
+.btn-erase {
+    background-color: white;
+    font-weight: bold;
+    color: red;
+    width: 70px;
+    font-family: nunito, sans-serif;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+.btn-erase:active {
+    background-color: gray;
+}
+
+.btn-digit {
+    background-color: orange;
+    font-weight: bold;
+    color: black;
+    width: 70px;
+    font-family: nunito, sans-serif;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+.btn-digit:active {
+    background-color: sienna;
+}
+
+.btn-extra {
+    background-color: black;
+    font-weight: bold;
+    color: black;
+    width: 70px;
+    font-family: nunito, sans-serif;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 4px;
+}
+
+.btn-big {
+    background-color: orange;
+    font-weight: bold;
+    color: blue;
+    width: 70px;
+    height: 100px;
+    font-family: nunito, sans-serif;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+
+p {
+    font-family: nunito, sans-serif;
+    color: black;
+    font-weight: bold;
+}
