@@ -11,4 +11,6 @@ Additional fixes to implement:
 <li>Do more debugging.</li>
 </ul>
 
+![Screen Capture](https://github.com/usaspiff/spiff-calculator/blob/master/spiff_fcc_calculator.gif)
+
 Check it out on CodePen <a href="https://codepen.io/usaspiff/full/ZLVjOW/">here</a>.
